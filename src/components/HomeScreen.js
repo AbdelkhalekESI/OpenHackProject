@@ -29,5 +29,6 @@ const styles = StyleSheet.create({
         backgroundColor: '#fff'
     }, MainText : {
         fontSize : 20,
+        fontFamily: 'Poppins-ExtraLight',
     }
   });
